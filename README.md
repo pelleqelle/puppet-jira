@@ -468,6 +468,10 @@ Password to access java keystore. Defaults to 'changeit'
 
 Defaults to 'JKS'. Valid options are 'JKS', 'PKCS12', 'JCEKS'.
 
+##### `$tomcat_accesslog_format`
+
+Defaults to standard JIRA access log format. See Tomcat docs for further details on changing format.
+
 #### Crowd single sign on parameters
 
 #### `enable_sso`
